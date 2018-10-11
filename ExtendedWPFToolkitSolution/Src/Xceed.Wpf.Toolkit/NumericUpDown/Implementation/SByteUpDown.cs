@@ -19,7 +19,7 @@ using System.Windows;
 
 namespace Xceed.Wpf.Toolkit
 {
-  internal class SByteUpDown : CommonNumericUpDown<sbyte>
+  public class SByteUpDown : CommonNumericUpDown<sbyte>
   {
     #region Constructors
 
